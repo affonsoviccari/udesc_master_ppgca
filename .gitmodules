@@ -1,0 +1,3 @@
+[submodule "course_ppa"]
+	path = course_ppa
+	url = https://github.com/affonsoviccari/udesc_master_ppgca_course_ppa.git
